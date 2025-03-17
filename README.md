@@ -1,2 +1,7 @@
 # rock_paper_scisoor
-This repository contains a C program that [in this code i made a game rock scissor paper we can paly it with computer]. The code is written in C 
+This C program is a simple implementation of the Rock-Paper-Scissors game, where the user plays against the computer. The game follows the standard rules:
+
+Rock (s) beats Scissors (z)
+Scissors (z) beats Paper (p)
+Paper (p) beats Rock (s)
+If both choose the same option, the game is a draw.
